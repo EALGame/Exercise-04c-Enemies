@@ -2,6 +2,8 @@
 
 ## Implementation
 
+Created walking, jumping, and charging enemies
+
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -13,5 +15,7 @@ https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
 
+Collectible coins
+
 ## Created by
-Nathan Mishler
+Eric Lasse
